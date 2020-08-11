@@ -62,7 +62,7 @@ body {
   color: #ddd;
 }
 
-.emtpty {
+.empty {
   margin: 20px;
   text-align: center;
 }
@@ -85,6 +85,6 @@ input[type="submit"] {
   margin: 10px auto;
   background: #eee;
   border: 0;
-  pading:6px 20px;
+  padding:6px 20px;
   display: block;
 }
