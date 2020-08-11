@@ -9,6 +9,8 @@ function BookForm() {
     const handleSubmit = (e) => {
         e.preventDefault()
         addBook(title, author)
+        setTitle('')
+        setAuthor('')
     }
     return (
         <>
